@@ -1,0 +1,24 @@
+INFO  | 2026-08-15 20:01:06 | [main] vtiacademy.tests.StoreCustomerTest (StoreCustomerTest.java:beforeAll:28) - Before all tests
+INFO  | 2026-08-15 20:01:06 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:17) - Getting database connection url
+INFO  | 2026-08-15 20:01:06 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:22) - MySQL Database connection url is jdbc:mysql://127.0.0.1:3306/sql_store
+INFO  | 2026-08-15 20:01:06 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:51) - Connecting to jdbc:mysql://127.0.0.1:3306/sql_store ...
+ERROR | 2026-08-15 20:01:10 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:57) - Failed to create connection to database. Root cause: Access denied for user 'root'@'localhost' (using password: YES)
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:17) - Getting database connection url
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getConnectionUrl:22) - MySQL Database connection url is jdbc:mysql://127.0.0.1:3306/sql_store
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:51) - Connecting to jdbc:mysql://127.0.0.1:3306/sql_store ...
+ERROR | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:createConnection:57) - Failed to create connection to database. Root cause: Access denied for user 'root'@'localhost' (using password: YES)
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:79) - Executing query 'SELECT * FROM customers'
+ERROR | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:85) - Failed to execute query 'SELECT * FROM customers'. Root cause: Cannot invoke "java.sql.Connection.createStatement(int, int)" because "connection" is null
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:92) - Getting cell values from column 'customer_id'
+ERROR | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:100) - Failed to get cell values from column 'customer_id'. Root cause: Cannot invoke "java.sql.ResultSet.beforeFirst()" because "resultSet" is null
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:92) - Getting cell values from column 'first_name'
+ERROR | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:100) - Failed to get cell values from column 'first_name'. Root cause: Cannot invoke "java.sql.ResultSet.beforeFirst()" because "resultSet" is null
+INFO  | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:92) - Getting cell values from column 'last_name'
+ERROR | 2026-08-15 20:01:11 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:100) - Failed to get cell values from column 'last_name'. Root cause: Cannot invoke "java.sql.ResultSet.beforeFirst()" because "resultSet" is null
+INFO  | 2026-08-15 20:01:12 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:79) - Executing query 'SELECT * FROM customers'
+ERROR | 2026-08-15 20:01:12 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:executeQuery:85) - Failed to execute query 'SELECT * FROM customers'. Root cause: Cannot invoke "java.sql.Connection.createStatement(int, int)" because "connection" is null
+INFO  | 2026-08-15 20:01:12 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:92) - Getting cell values from column 'customer_id'
+ERROR | 2026-08-15 20:01:12 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:getCellValues:100) - Failed to get cell values from column 'customer_id'. Root cause: Cannot invoke "java.sql.ResultSet.beforeFirst()" because "resultSet" is null
+INFO  | 2026-08-15 20:01:12 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:closeConnection:64) - Closing the connection ...
+WARN  | 2026-08-15 20:01:12 | [main] vtiacademy.common.DBKeywords (DBKeywords.java:closeConnection:69) - Connection is already closed
+INFO  | 2026-08-15 20:01:12 | [main] vtiacademy.tests.StoreCustomerTest (StoreCustomerTest.java:afterAll:87) - After all tests

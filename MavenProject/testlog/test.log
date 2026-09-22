@@ -1,0 +1,10 @@
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:beforeAll:30) - ====================Starting All Tests===================
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP001_add_two_numbers_successfully:41) - MP001
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP001_add_two_numbers_successfully:41) - MP001
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP001_add_two_numbers_successfully:41) - MP001
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP002_subtract_two_numbers_successfully:54) - MP002
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP002_subtract_two_numbers_successfully:54) - MP002
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP003_multiply_two_numbers_successfully:64) - MP003
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP003_multiply_two_numbers_successfully:64) - MP003
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:MP003_multiply_two_numbers_successfully:64) - MP003
+INFO  | 2026-08-13 19:46:32 | [main] vn.vtiacademy.MathProviderTest03 (MathProviderTest03.java:afterAll:72) - ====================Ended All Tests===================

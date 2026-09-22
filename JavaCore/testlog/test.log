@@ -1,0 +1,40 @@
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - firstName: Cierra
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - lastName: Vega
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - salary: 10000
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - department: Insurance
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - age: 39
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - email: cierra@example.com
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+DEBUG | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:41) - Adding an element to HashMap
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:addElementToHashMap:43) - Added the element to HashMap successfully
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - firstName: Alden
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - lastName: Cantrell
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - salary: 12000
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - department: Compliance
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - age: 45
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:51) - email: alden@example.com
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:57) - {firstName=Cierra, lastName=Vega, salary=10000, department=Insurance, age=39, email=cierra@example.com}
+INFO  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:show:57) - {firstName=Alden, lastName=Cantrell, salary=12000, department=Compliance, age=45, email=alden@example.com}
+WARN  | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:main:36) - Warning
+ERROR | 2026-08-08 19:52:35 | [main] vtiacademy.lesson13.HashMapDemo (HashMapDemo.java:main:37) - Error
