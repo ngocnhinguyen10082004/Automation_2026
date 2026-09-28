@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="054d1d67-2887-4fe1-bfec-982f670b3a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/common/pom/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/test/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.copilot-plugin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64/LICENSE.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/test/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/test/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testlog/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/testlog/test.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/Automation_2026/VTI_AT_202602/ATTestingFramework" value="3JgKxLCTtWnUHuFk6CAcblmhYfd" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3JgKxLCTtWnUHuFk6CAcblmhYfd" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.LoginTest.TC001_LoginWithBlankUserId.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Automation_2026/VTI_AT_202602/ATTestingFramework",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.LoginTest.TC001_LoginWithBlankUserId">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATTestingFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.edu.vtiacademy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vn.edu.vtiacademy.test" />
+      <option name="MAIN_CLASS_NAME" value="vn.edu.vtiacademy.test.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.TC001_LoginWithBlankUserId" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATTestingFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.edu.vtiacademy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="vn.edu.vtiacademy.test" />
+      <option name="MAIN_CLASS_NAME" value="vn.edu.vtiacademy.test.LoginTest" />
+      <option name="METHOD_NAME" value="TC001_LoginWithBlankUserId" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.TC001_LoginWithBlankUserId" />
+        <item itemvalue="TestNG.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054d1d67-2887-4fe1-bfec-982f670b3a6f" name="Changes" comment="" />
+      <created>1790077516335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790077516335</updated>
+    </task>
+    <servers />
+  </component>
+</project>
