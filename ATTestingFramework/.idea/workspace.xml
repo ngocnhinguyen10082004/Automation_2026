@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054d1d67-2887-4fe1-bfec-982f670b3a6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/common/pom/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/test/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.copilot-plugin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64/LICENSE.chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/drivers/chromedriver-mac-x64/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/test/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/vn/edu/vtiacademy/test/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testlog/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/testlog/test.log" afterDir="false" />
-    </list>
+    <list default="true" id="054d1d67-2887-4fe1-bfec-982f670b3a6f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,24 +51,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.LoginTest.TC001_LoginWithBlankUserId.executor": "Run",
-    "TestNG.LoginTest.executor": "Run",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Automation_2026/VTI_AT_202602/ATTestingFramework",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.LoginTest.TC001_LoginWithBlankUserId.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Automation_2026/VTI_AT_202602/ATTestingFramework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="TestNG.LoginTest.TC001_LoginWithBlankUserId">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATTestingFramework" />
