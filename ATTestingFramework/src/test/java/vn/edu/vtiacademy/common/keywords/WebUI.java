@@ -20,8 +20,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.safari.SafariDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.Wait;
@@ -54,6 +57,17 @@ public class WebUI {
 //          WebDriverManager.safaridriver().setup();
           driver = new SafariDriver(); //open browser
           break;
+        case "CHROME_HEADLESS":
+          ChromeOptions chromeHeadlessOptions = new ChromeOptions();
+          chromeHeadlessOptions.addArguments("--remote-allow-origins=*");
+          chromeHeadlessOptions.addArguments("--headless=new");
+          driver = new ChromeDriver(chromeHeadlessOptions);
+          break;
+        case "FIREFOX_HEADLESS":
+          FirefoxOptions firefoxHeadlessOptions = new FirefoxOptions();
+          firefoxHeadlessOptions.addArguments("--headless");
+          driver = new FirefoxDriver(firefoxHeadlessOptions);
+          break;
       }
       LOGGER.info("Opened browser '{}' successfully", browserName.toUpperCase());
     } catch (Exception e) {
@@ -71,6 +85,12 @@ public class WebUI {
         LOGGER.error("Failed to navigate to url '{}'. Root cause: {}", rawUrl, e.getMessage());
       }
     }
+  }
+
+  public void usePageFactory(Object page, int timeout) {
+    LOGGER.info("Using page factory");
+    PageFactory.initElements(new AjaxElementLocatorFactory(driver, timeout), page);
+    LOGGER.info("Used page factory successfully");
   }
 
   public void closeBrowser() {
@@ -470,6 +490,18 @@ public class WebUI {
 
   public void inputText(String locator, String text) {
     WebElement we = findWebElement(locator);
+    try {
+      LOGGER.info("Input text '{}' into web element '{}'", text, we);
+      we.clear();
+      we.sendKeys(text);
+      LOGGER.info("Inputted text '{}' into web element '{}' successfully", text, we);
+    } catch (Exception e) {
+      LOGGER.error("Failed to input text '{}' into web element '{}'. Root cause: {}", text, we,
+          e.getMessage());
+    }
+  }
+
+  public void inputText(WebElement we, String text) {
     try {
       LOGGER.info("Input text '{}' into web element '{}'", text, we);
       we.clear();

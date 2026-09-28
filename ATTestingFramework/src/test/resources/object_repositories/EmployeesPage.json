@@ -1,0 +1,19 @@
+{
+   "BTN_ADD": "//button[@id='addNewRecordButton']",
+   "REGISTRATION_FORM_TXT_FIRST_NAME": "//input[@id='firstName']",
+   "REGISTRATION_FORM_TXT_LAST_NAME": "//input[@id='lastName']",
+   "REGISTRATION_FORM_TXT_EMAIL": "//input[@id='userEmail']",
+   "REGISTRATION_FORM_TXT_AGE": "//input[@id='age']",
+   "REGISTRATION_FORM_TXT_SALARY": "//input[@id='salary']",
+   "REGISTRATION_FORM_TXT_DEPARTMENT": "//input[@id='department']",
+   "REGISTRATION_FORM_BTN_SUBMIT": "//button[@id='submit']",
+   "EMPLOYEE_TABLE_LBL_FIRST_NAMES": "//tr/td[1]",
+   "EMPLOYEE_TABLE_LBL_LAST_NAMES": "//tr/td[2]",
+   "EMPLOYEE_TABLE_LBL_AGES": "//tr/td[3]",
+   "EMPLOYEE_TABLE_LBL_EMAILS": "//tr/td[4]",
+   "EMPLOYEE_TABLE_LBL_SALARIES": "//tr/td[5]",
+   "EMPLOYEE_TABLE_LBL_DEPARTMENTS": "//tr/td[6]",
+   "EMPLOYEE_TABLE_BTN_EDITS": "//div[@class='action-buttons']/span[starts-with(@id,'edit-record')]",
+   "EMPLOYEE_TABLE_BTN_DELETES": "//div[@class='action-buttons']/span[starts-with(@id,'delete-record')]",
+   "EMPLOYEE_TABLE_BTN_ACTIONS": "//tr//div[@class='action-buttons']"
+}

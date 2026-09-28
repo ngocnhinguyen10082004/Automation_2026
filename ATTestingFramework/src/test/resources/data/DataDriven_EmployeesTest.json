@@ -1,0 +1,10 @@
+{
+  "EM001": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john_doe@mailinator.com",
+    "age": "25",
+    "salary": "1500",
+    "department": "IT"
+  }
+}

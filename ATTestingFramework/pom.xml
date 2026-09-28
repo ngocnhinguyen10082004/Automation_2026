@@ -24,6 +24,9 @@
     <datafaker.version>2.7.0</datafaker.version>
     <testng.version>7.12.0</testng.version>
     <allure-testng.version>2.35.5</allure-testng.version>
+    <json-path.version>3.0.0</json-path.version>
+    <snakeyaml-version>2.7</snakeyaml-version>
+    <poi.version>5.5.1</poi.version>
   </properties>
 
   <dependencies>
@@ -145,6 +148,34 @@
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <version>2.22.0</version>
+    </dependency>
+
+    <!-- Source: https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path -->
+    <dependency>
+      <groupId>com.jayway.jsonpath</groupId>
+      <artifactId>json-path</artifactId>
+      <version>${json-path.version}</version>
+    </dependency>
+
+    <!-- Source: https://mvnrepository.com/artifact/org.yaml/snakeyaml -->
+    <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>${snakeyaml-version}</version>
+    </dependency>
+
+    <!-- Source: https://mvnrepository.com/artifact/org.apache.poi/poi -->
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi</artifactId>
+      <version>${poi.version}</version>
+    </dependency>
+
+    <!-- Source: https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-ooxml</artifactId>
+      <version>${poi.version}</version>
     </dependency>
 
   </dependencies>

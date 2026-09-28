@@ -1,49 +1,421 @@
-INFO  | 2026-09-22 19:59:26 | [main] testng.log4testng.Logger (Logger.java:info:112) - [TestNG] Running:
-  C:\Users\NGOC NHI\AppData\Local\JetBrains\IntelliJIdea2025.3\temp-testng-customsuite.xml
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+WARN  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:warn:133) - Detected a static method [vn.edu.vtiacademy.test.ExcelBaseTest.setup()]. Static configuration methods can cause unexpected behavior.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+WARN  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:warn:133) - Detected a static method [vn.edu.vtiacademy.test.ExcelBaseTest.tearDown()]. Static configuration methods can cause unexpected behavior.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+INFO  | 2026-09-26 22:02:43 | [main] testng.log4testng.Logger (Logger.java:info:112) - [TestNG] Running:
+  /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/testsuites/DataDriven_Excel_EmployeesTestSuite.xml
 
-INFO  | 2026-09-22 19:59:26 | [main] vtiacademy.test.LoginTest (LoginTest.java:setUp:18) -  START TEST
-INFO  | 2026-09-22 19:59:26 | [main] common.keywords.WebUI (WebUI.java:openBrowser:41) - Opening browser 'CHROME'
-INFO  | 2026-09-22 19:59:30 | [main] common.keywords.WebUI (WebUI.java:openBrowser:58) - Opened browser 'CHROME' successfully
-INFO  | 2026-09-22 19:59:30 | [main] common.keywords.WebUI (WebUI.java:navigateTo:282) - Navigating to url 'https://demo.guru99.com/V4/index.php'
-INFO  | 2026-09-22 19:59:32 | [main] common.keywords.WebUI (WebUI.java:navigateTo:284) - Navigated to url 'https://demo.guru99.com/V4/index.php' successfully
-INFO  | 2026-09-22 19:59:34 | [main] common.keywords.WebUI (WebUI.java:delayInSeconds:499) - Delayed '2' second(s) successfully
-INFO  | 2026-09-22 19:59:34 | [main] vtiacademy.test.LoginTest (LoginTest.java:TC001_LoginWithBlankUserId:33) - =========== TC001: Login with blank User ID ===========
-INFO  | 2026-09-22 19:59:34 | [main] common.keywords.WebUI (WebUI.java:findWebElement:424) - Finding web element located by '/html/body/form/table/tbody/tr[1]/td[2]/input'
-INFO  | 2026-09-22 19:59:34 | [main] common.keywords.WebUI (WebUI.java:findWebElement:443) - Found web element located by '/html/body/form/table/tbody/tr[1]/td[2]/input'
-INFO  | 2026-09-22 19:59:34 | [main] common.keywords.WebUI (WebUI.java:inputText:474) - Input text '' into web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[1]/td[2]/input]'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:inputText:477) - Inputted text '' into web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[1]/td[2]/input]' successfully
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:424) - Finding web element located by '/html/body/form/table/tbody/tr[1]/td[2]/input'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:443) - Found web element located by '/html/body/form/table/tbody/tr[1]/td[2]/input'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:209) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[1]/td[2]/input]' highlighted
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:213) - Took screenshot of the page with web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[1]/td[2]/input]' highlighted successfully
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:424) - Finding web element located by '/html/body/form/table/tbody/tr[2]/td[2]/input'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:443) - Found web element located by '/html/body/form/table/tbody/tr[2]/td[2]/input'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:inputText:474) - Input text 'UmyYqQe' into web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[2]/td[2]/input]'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:inputText:477) - Inputted text 'UmyYqQe' into web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[2]/td[2]/input]' successfully
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:424) - Finding web element located by '/html/body/form/table/tbody/tr[2]/td[2]/input'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:443) - Found web element located by '/html/body/form/table/tbody/tr[2]/td[2]/input'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:209) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[2]/td[2]/input]' highlighted
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:213) - Took screenshot of the page with web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[2]/td[2]/input]' highlighted successfully
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:424) - Finding web element located by '/html/body/form/table/tbody/tr[3]/td[2]/input[1]'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:findWebElement:443) - Found web element located by '/html/body/form/table/tbody/tr[3]/td[2]/input[1]'
-INFO  | 2026-09-22 19:59:35 | [main] common.keywords.WebUI (WebUI.java:click:518) - Clicking on web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[3]/td[2]/input[1]]'
-INFO  | 2026-09-22 19:59:36 | [main] common.keywords.WebUI (WebUI.java:click:520) - Clicked on web element '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: /html/body/form/table/tbody/tr[3]/td[2]/input[1]]' successfully
-INFO  | 2026-09-22 19:59:38 | [main] common.keywords.WebUI (WebUI.java:delayInSeconds:499) - Delayed '2' second(s) successfully
-INFO  | 2026-09-22 19:59:38 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:125) - Taking screenshot of the page
-ERROR | 2026-09-22 19:59:38 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:132) - Failed to take screenshot of the page. Root cause: unexpected alert open: {Alert text : User or Password is not valid}
-  (Session info: chrome=153.0.8010.50): User or Password is not valid
-Build info: version: '4.49.0', revision: 'bedb24f bedb24f6f703876e7e4c5d506f0d697eb358c720'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [6a716ae3360037dc5d1f17dfc78a5e96, screenshot {}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.50, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\NGOCNH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49667}, goog:processID: 22360, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49667/devtoo..., se:cdpVersion: 153.0.8010.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 6a716ae3360037dc5d1f17dfc78a5e96
-INFO  | 2026-09-22 19:59:38 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:125) - Taking screenshot of the page
-INFO  | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:128) - Took screenshot of the page successfully
-INFO  | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:findWebElement:424) - Finding web element located by '//label[@id='message23']'
-INFO  | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:findWebElement:443) - Found web element located by '//label[@id='message23']'
-INFO  | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:917) - Verifying text of web element located by '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: //label[@id='message23']]'
-ERROR | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:923) - Actual text of web element located by '[[ChromeDriver: chrome on windows (6a716ae3360037dc5d1f17dfc78a5e96)] -> xpath: //label[@id='message23']]' is '', not 'User-ID must not be blank'
-INFO  | 2026-09-22 19:59:40 | [main] vtiacademy.test.LoginTest (LoginTest.java:tearDown:27) - END TEST
-INFO  | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:closeBrowser:78) - Closing browser
-INFO  | 2026-09-22 19:59:40 | [main] common.keywords.WebUI (WebUI.java:closeBrowser:80) - Closed browser successfully
+INFO  | 2026-09-26 22:02:43 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:beforeSuite:48) - ===============================Before Suite========================
+INFO  | 2026-09-26 22:02:43 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:beforeTest:55) - ===============================Before Test========================
+INFO  | 2026-09-26 22:02:43 | [main] common.keywords.WebUI (WebUI.java:openBrowser:44) - Opening browser 'CHROME'
+INFO  | 2026-09-26 22:02:47 | [main] common.keywords.WebUI (WebUI.java:openBrowser:72) - Opened browser 'CHROME' successfully
+INFO  | 2026-09-26 22:02:47 | [main] common.keywords.WebUI (WebUI.java:openBrowser:81) - Navigating to url 'https://demoqa.com/webtables'
+INFO  | 2026-09-26 22:02:53 | [main] common.keywords.WebUI (WebUI.java:openBrowser:83) - Navigated to url 'https://demoqa.com/webtables' successfully
+INFO  | 2026-09-26 22:02:53 | [main] common.keywords.WebUI (WebUI.java:maximizeWindow:312) - Maximizing the window
+INFO  | 2026-09-26 22:02:54 | [main] common.keywords.WebUI (WebUI.java:maximizeWindow:314) - Maximized the window successfully
+INFO  | 2026-09-26 22:02:54 | [main] testng.log4testng.Logger (Logger.java:info:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+INFO  | 2026-09-26 22:02:54 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:setup:37) - ===============================Start EM001_create_a_new_employee_successfully========================
+INFO  | 2026-09-26 22:02:54 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:02:56 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:02:57 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]' highlighted
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]' highlighted successfully
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:click:550) - Clicking on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]'
+INFO  | 2026-09-26 22:02:57 | [main] common.keywords.WebUI (WebUI.java:click:552) - Clicked on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]' successfully
+INFO  | 2026-09-26 22:03:00 | [main] common.keywords.WebUI (WebUI.java:delayInSeconds:531) - Delayed '3' second(s) successfully
+INFO  | 2026-09-26 22:03:00 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:145) - Taking screenshot of the page
+INFO  | 2026-09-26 22:03:00 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:148) - Took screenshot of the page successfully
+INFO  | 2026-09-26 22:03:00 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:00 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:00 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'Peter' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'Peter' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]' successfully
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]' highlighted
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]' highlighted successfully
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'Hard' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'Hard' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]' successfully
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]' highlighted
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]' highlighted successfully
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'peterhard@mailinator.com' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'peterhard@mailinator.com' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]' successfully
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]' highlighted
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]' highlighted successfully
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:01 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text '34' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text '34' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]' successfully
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]' highlighted
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]' highlighted successfully
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text '1500' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text '1500' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]' successfully
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]' highlighted
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]' highlighted successfully
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'IT' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'IT' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]' successfully
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]' highlighted
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]' highlighted successfully
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:02 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' highlighted
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' highlighted successfully
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:click:550) - Clicking on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:click:552) - Clicked on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' successfully
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:verifyElementVisible:845) - Verifying element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' visible
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:verifyElementVisible:848) - Element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' is visible
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:click:550) - Clicking on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]'
+INFO  | 2026-09-26 22:03:03 | [main] common.keywords.WebUI (WebUI.java:click:552) - Clicked on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' successfully
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:delayInSeconds:531) - Delayed '3' second(s) successfully
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:145) - Taking screenshot of the page
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:148) - Took screenshot of the page successfully
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:findWebElements:478) - Finding web elements located by '//tr/td[1]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:findWebElements:482) - Found 5 web elements located by '//tr/td[1]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Cierra', not 'Peter'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Alden', not 'Peter'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Kierra', not 'Peter'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:969) - Text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Peter'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:252) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' highlighted
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:256) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' highlighted successfully
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:findWebElements:478) - Finding web elements located by '//tr/td[2]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:findWebElements:482) - Found 5 web elements located by '//tr/td[2]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Vega', not 'Hard'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Cantrell', not 'Hard'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Gentry', not 'Hard'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:969) - Text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Hard'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:takeElementScreenshot:192) - Taking screenshot of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+INFO  | 2026-09-26 22:03:06 | [main] common.keywords.WebUI (WebUI.java:takeElementScreenshot:195) - Took screenshot of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' successfully
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:tearDown:43) - ===============================End EM001_create_a_new_employee_successfully========================
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:setup:37) - ===============================Start EM001_create_a_new_employee_successfully_01========================
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:103) - Finding test data of test case 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:45) - [6, 7] to [1, 8]
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:47) - Get all data from Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: firstName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Lili
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: lastName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Women
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: email
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: lliwomen@mailinator.com
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: age
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 34
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: salary
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 1500
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: department
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: IT
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:107) - Found '1' test data of test case id 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:110) - row 1: Lili
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:111) - row 2: Women
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:103) - Finding test data of test case 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:45) - [6, 7] to [1, 8]
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:47) - Get all data from Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: firstName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Lili
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: lastName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Women
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: email
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: lliwomen@mailinator.com
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: age
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 34
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: salary
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 1500
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: department
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: IT
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:107) - Found '1' test data of test case id 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:110) - row 1: Lili
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:111) - row 2: Women
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:103) - Finding test data of test case 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:45) - [6, 7] to [1, 8]
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:47) - Get all data from Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: firstName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Lili
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: lastName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Women
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: email
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: lliwomen@mailinator.com
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: age
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 34
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: salary
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 1500
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: department
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: IT
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:107) - Found '1' test data of test case id 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:110) - row 1: Lili
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:111) - row 2: Women
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:103) - Finding test data of test case 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:45) - [6, 7] to [1, 8]
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:47) - Get all data from Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: firstName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Lili
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: lastName
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Women
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: email
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: lliwomen@mailinator.com
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: age
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 34
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: salary
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 1500
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: department
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: IT
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:107) - Found '1' test data of test case id 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:110) - row 1: Lili
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:111) - row 2: Women
+INFO  | 2026-09-26 22:03:06 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:103) - Finding test data of test case 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:06 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:45) - [6, 7] to [1, 8]
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:47) - Get all data from Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: firstName
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Lili
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: lastName
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Women
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: email
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: lliwomen@mailinator.com
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: age
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 34
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: salary
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 1500
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: department
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: IT
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:107) - Found '1' test data of test case id 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:110) - row 1: Lili
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:111) - row 2: Women
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:103) - Finding test data of test case 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:33) - Getting Excel Workbook from Excel File /Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getWorkbook:35) - Excel Workbook Loaded
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:58) - Getting Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.ExcelHelper (ExcelHelper.java:getSheet:60) - Excel Sheet Loaded
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:45) - [6, 7] to [1, 8]
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:47) - Get all data from Excel Sheet DataDrivenExcel_EmployeesTest
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: firstName
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Lili
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: lastName
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: Women
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: email
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: lliwomen@mailinator.com
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: age
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 34
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: salary
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: 1500
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:61) - Header: department
+INFO  | 2026-09-26 22:03:07 | [main] common.helpers.FileHelper (FileHelper.java:getExcelData:62) - Cell value: IT
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:107) - Found '1' test data of test case id 'EM001' in sheet name 'DataDrivenExcel_EmployeesTest' of file '/Users/tuyenluu/training-workspace/VTI_AT_202602/ATTestingFramework/src/test/resources/data/DataDrivenExcel_EmployeesTest.xlsx'
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:110) - row 1: Lili
+INFO  | 2026-09-26 22:03:07 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:findTestData:111) - row 2: Women
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]' highlighted
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]' highlighted successfully
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='addNewRecordButton']'
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:click:550) - Clicking on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]'
+INFO  | 2026-09-26 22:03:07 | [main] common.keywords.WebUI (WebUI.java:click:552) - Clicked on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='addNewRecordButton']]' successfully
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:delayInSeconds:531) - Delayed '3' second(s) successfully
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:145) - Taking screenshot of the page
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:148) - Took screenshot of the page successfully
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'Lili' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'Lili' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]' successfully
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='firstName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]' highlighted
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='firstName']]' highlighted successfully
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'Women' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'Women' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]' successfully
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='lastName']'
+INFO  | 2026-09-26 22:03:10 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]' highlighted
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='lastName']]' highlighted successfully
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'lliwomen@mailinator.com' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'lliwomen@mailinator.com' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]' successfully
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='userEmail']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]' highlighted
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='userEmail']]' highlighted successfully
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text '34' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text '34' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]' successfully
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='age']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]' highlighted
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='age']]' highlighted successfully
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text '1500' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text '1500' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]' successfully
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='salary']'
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]' highlighted
+INFO  | 2026-09-26 22:03:11 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='salary']]' highlighted successfully
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:inputText:494) - Input text 'IT' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:inputText:497) - Inputted text 'IT' into web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]' successfully
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//input[@id='department']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]' highlighted
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //input[@id='department']]' highlighted successfully
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:229) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' highlighted
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:233) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' highlighted successfully
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:click:550) - Clicking on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:click:552) - Clicked on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' successfully
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:verifyElementVisible:845) - Verifying element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' visible
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:verifyElementVisible:848) - Element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' is visible
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:444) - Finding web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:findWebElement:463) - Found web element located by '//button[@id='submit']'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:click:550) - Clicking on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]'
+INFO  | 2026-09-26 22:03:12 | [main] common.keywords.WebUI (WebUI.java:click:552) - Clicked on web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //button[@id='submit']]' successfully
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:delayInSeconds:531) - Delayed '3' second(s) successfully
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:145) - Taking screenshot of the page
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:takeScreenshot:148) - Took screenshot of the page successfully
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:findWebElements:478) - Finding web elements located by '//tr/td[1]'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:findWebElements:482) - Found 7 web elements located by '//tr/td[1]'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Cierra', not 'Lili'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Alden', not 'Lili'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Kierra', not 'Lili'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Peter', not 'Lili'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+ERROR | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is '', not 'Lili'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:969) - Text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' is 'Lili'
+INFO  | 2026-09-26 22:03:15 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:252) - Taking screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' highlighted
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:takeScreenshotWithHighlight:256) - Took screenshot of the page with web element '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[1]]' highlighted successfully
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:findWebElements:478) - Finding web elements located by '//tr/td[2]'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:findWebElements:482) - Found 7 web elements located by '//tr/td[2]'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Vega', not 'Women'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Cantrell', not 'Women'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Gentry', not 'Women'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Hard', not 'Women'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+ERROR | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:972) - Actual text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is '', not 'Women'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:966) - Verifying text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:verifyElementText:969) - Text of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' is 'Women'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:takeElementScreenshot:192) - Taking screenshot of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]'
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:takeElementScreenshot:195) - Took screenshot of web element located by '[[ChromeDriver: chrome on mac (65866925ac3bc9030a67169596b4d1ec)] -> xpath: //tr/td[2]]' successfully
+INFO  | 2026-09-26 22:03:16 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:tearDown:43) - ===============================End EM001_create_a_new_employee_successfully_01========================
+INFO  | 2026-09-26 22:03:16 | [main] common.keywords.WebUI (WebUI.java:closeBrowser:98) - Closing browser
+INFO  | 2026-09-26 22:03:31 | [main] common.keywords.WebUI (WebUI.java:closeBrowser:100) - Closed browser successfully
+INFO  | 2026-09-26 22:03:31 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:afterTest:64) - ===============================After Test==========================
+INFO  | 2026-09-26 22:03:31 | [main] vtiacademy.test.ExcelBaseTest (ExcelBaseTest.java:afterSuite:69) - ===============================After Suite========================
+INFO  | 2026-09-26 22:03:31 | [main] testng.log4testng.Logger (Logger.java:info:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ec6f3f1: 0 ms

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Employees Test Suite">
+  <test name="Create and edit employee tests on Chrome" preserve-order="true"
+    verbose="2">
+    <parameter name="browser" value="Chrome" />
+    <parameter name="url" value="https://demoqa.com/webtables" />
+    <groups>
+      <run>
+        <include name="regression" />
+      </run>
+    </groups>
+      <classes>
+        <class name="vn.edu.vtiacademy.test.DataDriven_EmployeesTest">
+        </class>
+      </classes>
+  </test>
+
+  <test name="Create and edit employee tests on Firefox" preserve-order="true"
+    verbose="2">
+    <parameter name="browser" value="Firefox" />
+    <parameter name="url" value="https://demoqa.com/webtables" />
+    <groups>
+      <run>
+        <include name="regression" />
+      </run>
+    </groups>
+    <classes>
+      <class name="vn.edu.vtiacademy.test.DataDriven_EmployeesTest">
+      </class>
+    </classes>
+  </test>
+
+  <test name="Create and edit employee tests on Safari" preserve-order="true"
+    verbose="2">
+    <parameter name="browser" value="Safari" />
+    <parameter name="url" value="https://demoqa.com/webtables" />
+    <groups>
+      <run>
+        <include name="regression" />
+      </run>
+    </groups>
+    <classes>
+      <class name="vn.edu.vtiacademy.test.DataDriven_EmployeesTest">
+      </class>
+    </classes>
+  </test>
+</suite>

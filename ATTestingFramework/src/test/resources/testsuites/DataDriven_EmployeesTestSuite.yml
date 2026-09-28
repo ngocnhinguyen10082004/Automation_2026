@@ -1,0 +1,8 @@
+name: Employees Test Suite
+
+tests:
+  - name: Create and edit employee tests on Chrome
+    parameters: {browser: Firefox_headless, url: https://demoqa.com/webtables}
+    includedGroups: [ regression ]
+    classes:
+      - vn.edu.vtiacademy.test.DataDriven_EmployeesTest
